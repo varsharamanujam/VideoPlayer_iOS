@@ -13,6 +13,7 @@
 		A61BB3B528FBDAE50083E426 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A61BB3B328FBDAE50083E426 /* Main.storyboard */; };
 		A61BB3B728FBDAEA0083E426 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A61BB3B628FBDAEA0083E426 /* Assets.xcassets */; };
 		A61BB3BA28FBDAEA0083E426 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A61BB3B828FBDAEA0083E426 /* LaunchScreen.storyboard */; };
+		A61BB3C228FC188D0083E426 /* file_example_MP4_480_1_5MG.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A61BB3C128FC183A0083E426 /* file_example_MP4_480_1_5MG.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A61BB3B628FBDAEA0083E426 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A61BB3B928FBDAEA0083E426 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A61BB3BB28FBDAEA0083E426 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A61BB3C128FC183A0083E426 /* file_example_MP4_480_1_5MG.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = file_example_MP4_480_1_5MG.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A61BB3B128FBDAE50083E426 /* ViewController.swift */,
 				A61BB3B328FBDAE50083E426 /* Main.storyboard */,
 				A61BB3B628FBDAEA0083E426 /* Assets.xcassets */,
+				A61BB3C128FC183A0083E426 /* file_example_MP4_480_1_5MG.mp4 */,
 				A61BB3B828FBDAEA0083E426 /* LaunchScreen.storyboard */,
 				A61BB3BB28FBDAEA0083E426 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A61BB3C228FC188D0083E426 /* file_example_MP4_480_1_5MG.mp4 in Resources */,
 				A61BB3BA28FBDAEA0083E426 /* LaunchScreen.storyboard in Resources */,
 				A61BB3B728FBDAEA0083E426 /* Assets.xcassets in Resources */,
 				A61BB3B528FBDAE50083E426 /* Main.storyboard in Resources */,
